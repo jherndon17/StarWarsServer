@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "02Sy0CJNSCA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\StarWarsServer\\StarWarsServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.20\\microsoft.dotnet.ilcompiler.8.0.20.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.20\\microsoft.net.illink.tasks.8.0.20.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.20\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

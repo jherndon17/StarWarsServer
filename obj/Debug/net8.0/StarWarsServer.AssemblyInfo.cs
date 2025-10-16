@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarWarsServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c1c0c8b816d506ae026d5a93af3dd627d41e33c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarWarsServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarWarsServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
